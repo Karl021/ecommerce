@@ -6,7 +6,7 @@
     'aliases' => 
     array (
     ),
-    'reference' => 'a502f91b464414551769ccbcf1a4a268c3455315',
+    'reference' => '2fc1ad48661cbe47ffa26f310a7d6832752c5cc0',
     'name' => 'karl021/ecommerce',
   ),
   'versions' => 
@@ -18,16 +18,16 @@
       'aliases' => 
       array (
       ),
-      'reference' => 'a502f91b464414551769ccbcf1a4a268c3455315',
+      'reference' => '2fc1ad48661cbe47ffa26f310a7d6832752c5cc0',
     ),
     'phpmailer/phpmailer' => 
     array (
-      'pretty_version' => 'v5.2.22',
-      'version' => '5.2.22.0',
+      'pretty_version' => 'v6.4.1',
+      'version' => '6.4.1.0',
       'aliases' => 
       array (
       ),
-      'reference' => 'b18cb98131bd83103ccb26a888fdfe3177b8a663',
+      'reference' => '9256f12d8fb0cd0500f93b19e18c356906cbed3d',
     ),
     'rain/raintpl' => 
     array (

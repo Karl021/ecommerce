@@ -1,6 +1,6 @@
 <?php if(!class_exists('Rain\Tpl')){exit;}?><!DOCTYPE html>
 <!--
-    Hcode Store by hcode.com.br
+    Auto Peças Botinha Store by Stimmt Sistemas 
 -->
 <html lang="pt-br">
   <head>
